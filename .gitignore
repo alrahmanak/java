@@ -1,0 +1,12 @@
+
+
+./workspace/.metadata
+./workspace/.metadata/*
+./workspace/RemoteSystemsTempFiles/
+
+./workspace/fileio/.*
+./workspace/fileio/target/
+./workspace/fileio/.settings/
+./workspace/fileio/.settings/*
+./workspace/fileio/.project
+./workspace/fileio/.classpath
